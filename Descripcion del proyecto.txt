@@ -1,0 +1,2 @@
+Descripción del proyecto:
+Diseñar un sistema de alarma que pueda activarse y desactivarse por medio de la siguiente secuencia de números binarios: 1001. Los números se ingresan por medio de dos botones distintos para cada número. La alarma debe sonar al detectarse un intruso siempre y cuando el sistema esté activo. La alarma debe continuar sonando una vez se detectó el intruso, aunque este devuelva el sensor de detección a su estado original y solo se apagará al ingresar el código correcto.
